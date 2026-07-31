@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00A8A8&height=280&section=header&text=Shehab%20Mansour&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%2F%20DRF%20%2F%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/ShehabMansour"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8A8&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%2F+Django;Building+Scalable+REST+APIs;AI-Powered+Smart+Systems+%26+Embedded+Tech;Clean+Code+%7C+Clean+Architecture" alt="Typing SVG" /></a>
+<a href="https://github.com/Shehab-Mansour"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8A8&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%2F+Django;Building+Scalable+REST+APIs;AI-Powered+Smart+Systems+%26+Embedded+Tech;Clean+Code+%7C+Clean+Architecture" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShehabMansour&label=Profile%20Views&color=00A8A8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Shehab-Mansour&label=Profile%20Views&color=00A8A8&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-El--Monufia%2C%20Egypt-00A8A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20AI-046865?style=for-the-badge&logo=django&logoColor=white" />
 
@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/Gmail-shehab2052002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehab2052002@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B201110765516-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201110765516)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShehabMansour)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehab-Mansour)
 
 </div>
 
@@ -201,13 +201,13 @@ Delivered a 50+ session course to teens aged 12–22 on embedded systems and Ard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShehabMansour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00A8A8&icon_color=00A8A8&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShehabMansour&theme=tokyonight&hide_border=true&background=0f172a&ring=00A8A8&fire=00A8A8&currStreakLabel=00A8A8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shehab-Mansour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00A8A8&icon_color=00A8A8&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Shehab-Mansour&theme=tokyonight&hide_border=true&background=0f172a&ring=00A8A8&fire=00A8A8&currStreakLabel=00A8A8" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShehabMansour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00A8A8&text_color=c9d1d9&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShehabMansour&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=00A8A8&line=00A8A8&point=ffffff&area=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehab-Mansour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00A8A8&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehab-Mansour&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=00A8A8&line=00A8A8&point=ffffff&area=true" width="49%" />
 
 </div>
 
@@ -216,7 +216,7 @@ Delivered a 50+ session course to teens aged 12–22 on embedded systems and Ard
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShehabMansour&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shehab-Mansour&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
@@ -239,7 +239,7 @@ Delivered a 50+ session course to teens aged 12–22 on embedded systems and Ard
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehab2052002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShehabMansour)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehab-Mansour)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8A8,100:0f172a&height=120&section=footer" width="100%"/>
 
