@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00A8A8&height=280&section=header&text=Shehab%20Mansour&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%2F%20Django%20%2F%20DRF&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00A8A8&height=280&section=header&text=Shehab%20Mansour&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%2F%20DRF%20%2F%20AI%20Integration&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/ShehabMansour"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8A8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%2F+Django;Building+Scalable+REST+APIs;Django+REST+Framework+Specialist;Clean+Code+%7C+Clean+Architecture" alt="Typing SVG" /></a>
+<a href="https://github.com/ShehabMansour"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8A8&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%2F+Django;Building+Scalable+REST+APIs;AI-Powered+Smart+Systems+%26+Embedded+Tech;Clean+Code+%7C+Clean+Architecture" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShehabMansour&label=Profile%20Views&color=00A8A8&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Egypt-00A8A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF-046865?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-El--Monufia%2C%20Egypt-00A8A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20AI-046865?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-shehab2052002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehab2052002@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B201110765516-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201110765516)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShehabMansour)
 
 </div>
@@ -23,18 +24,21 @@
 ## 🧭 About Me
 
 ```yaml
-name: "Shehab Mansour"
-location: "Egypt 🇪🇬"
-role: "Backend Developer"
-education: "B.Sc. Computer Engineering & Control — 2025"
+name: "Shehab Abd-Alrahman Mohamed"
+title: "Computer Engineer / Backend Developer"
+location: "El-Monufia, Egypt 🇪🇬"
+education: "B.Sc. Computer & Control Engineering — El-Shorouk Academy (2025)"
 focus: "Building scalable backend systems with Django & Django REST Framework"
+also_into: ["AI Integration", "Embedded Systems", "IoT", "Computer Vision"]
 currently_learning: ["Docker", "Redis", "Celery", "CI/CD", "System Design"]
 ```
 
-- 🎓 Bachelor's Degree in Computer Engineering and Control (Graduated 2025)
-- 🛠️ Currently focused on designing and building scalable, production-ready backend systems
-- 📡 Passionate about clean API design, authentication systems, and maintainable architecture
-- 🌱 Actively leveling up toward Senior Backend Engineer
+- 🎓 Bachelor's Degree in Computer and Control Engineering, El-Shorouk Academy (Graduated 2025)
+- 🧑‍💻 Versatile Back-End Developer with solid hands-on experience in Django, REST APIs, and AI integration
+- 🤖 Played a key role in building a full-stack **smart retail system** using Python, Raspberry Pi, and YOLOv8
+- 📡 Strong academic background in networking (CCNA-level), operating systems, data mining, machine learning, and embedded systems
+- 🚀 Skilled at developing and deploying scalable applications using PyCharm and PythonAnywhere
+- 🎤 Passionate instructor and team player with a continuous learning mindset
 
 <br/>
 
@@ -42,21 +46,33 @@ currently_learning: ["Docker", "Redis", "Celery", "CI/CD", "System Design"]
 
 <div align="center">
 
-**Backend**
+**Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,php,java,c,html,css,js&theme=dark" />
 
 <br/><br/>
 
-**Frontend Knowledge**
+**Backend & Web**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,git&theme=dark" />
+
+<br/><br/>
+
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,python&theme=dark" />
+
+<br/><br/>
+
+**Embedded & IoT**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
 
 <br/><br/>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,postman,vscode,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,netbeans,linux,postman&theme=dark" />
 
 </div>
 
@@ -66,25 +82,36 @@ currently_learning: ["Docker", "Redis", "Celery", "CI/CD", "System Design"]
 <summary><b>📦 Detailed Skill Breakdown</b></summary>
 <br/>
 
-**Backend Development**
+**Languages & Frameworks**
 - Python · Django · Django REST Framework
+- PHP · Java · C
+- HTML · CSS · JavaScript
+
+**Backend & Web**
 - REST API Design & Documentation
-- JWT Authentication · Authorization
-- Custom User Models
-- Role & Permission Systems
-- Pagination · Filtering · Search APIs
-- File Uploads
+- JWT Authentication · Git · Postman
+- MySQL · SQLite
 
-**Databases**
-- PostgreSQL · MySQL · SQLite
+**AI & Machine Learning**
+- YOLOv8 · OpenCV
+- PyTorch · Scikit-learn
+- Data Mining · AI Deployment
 
-**Frontend Knowledge**
-- React · JavaScript · HTML · CSS
+**Embedded & IoT**
+- Raspberry Pi · Arduino
+- ESP32 / ESP8266
 
-**Tools**
-- Git & GitHub · Linux (Ubuntu)
-- Docker *(learning)* · Postman
-- VS Code · PyCharm
+**Networking**
+- CCNA-level understanding (routing, switching, protocols)
+- IPS · Security Basics
+
+**Other Domains**
+- Operating Systems · Software Engineering · Data Analysis
+
+**Tools & Platforms**
+- PyCharm · VS Code · NetBeans
+- Arduino IDE · Atmel Studio · Jupyter
+- Linux · PythonAnywhere
 
 </details>
 
@@ -94,39 +121,33 @@ currently_learning: ["Docker", "Redis", "Celery", "CI/CD", "System Design"]
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🦷 Dental Clinic Management System (DCMS)
+### 🛒 Easy Cart — Smart Retail Shopping System
+*Lead Backend Developer — 2020/09 – 2025/06*
 
-Multi-branch clinic management backend handling doctors, patients, departments, and appointments with full role-based access control.
-
-**Highlights:**
-- 🏥 Multi-branch management
-- 👨‍⚕️ Doctors, patients & department modules
-- 📅 Appointment scheduling system
-- 🔐 Authentication, authorization & role/permission system
-- 🌐 Public APIs + Admin APIs
-- 🔍 Search, pagination & filtering
-- 📁 Media uploads
-
-`Django` `Django REST Framework` `PostgreSQL/MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 EasyCart
-
-A smart shopping ecosystem combining a Django backend, React dashboard, mobile app, and smart cart integration.
+An AI-powered smart shopping cart system combining a Django backend, embedded hardware, and computer vision for a next-generation retail experience.
 
 **Contributions:**
-- 🔐 Authentication (JWT)
-- 🌐 API development
-- 🗄️ Database design
-- 👥 User roles & permissions
-- 📦 Product management
-- 🧾 Order processing
+- 🧑‍💻 Lead backend developer using Django REST Framework
+- 🌐 Built APIs for product management, real-time cart tracking, checkout, and analytics
+- 🎯 Integrated YOLOv8 object detection on Raspberry Pi for real-time product recognition
+- 🧭 Developed indoor navigation via IPS using RSSI and A* pathfinding
+- ⚖️ System included load sensors, QR login, API sync, and an admin dashboard
+- 📖 Hosted on PythonAnywhere with full Postman documentation
 
-`Django` `React` `JWT` `REST APIs`
+`Django` `Django REST Framework` `Raspberry Pi` `YOLOv8` `OpenCV` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🎓 Arduino Workshop Instructor
+
+Delivered a 50+ session course to teens aged 12–22 on embedded systems and Arduino projects, covering sensors, actuators, C programming, and real-world applications.
+
+`Arduino` `C` `Embedded Systems` `Teaching`
 
 </td>
 </tr>
@@ -147,6 +168,30 @@ A smart shopping ecosystem combining a Django backend, React dashboard, mobile a
 ![Nginx](https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=00A8A8)
 ![Microservices](https://img.shields.io/badge/Microservices-0f172a?style=for-the-badge&logo=kubernetes&logoColor=00A8A8)
 ![System Design](https://img.shields.io/badge/System_Design-0f172a?style=for-the-badge&logo=systemd&logoColor=00A8A8)
+
+</div>
+
+<br/>
+
+## 🎓 Courses & Certifications
+
+- 🐍 Python & Django Web Development
+- 🔌 Embedded Systems Diploma
+- 🌐 CCNA Networking (Routing, Switching, Protocols)
+- 📊 Data Mining & Machine Learning Fundamentals
+- 💻 Operating Systems & Software Engineering
+- 🔧 Arduino, Java, C Programming
+
+<br/>
+
+## 🤝 Soft Skills
+
+<div align="center">
+
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration_%26_Leadership-046865?style=for-the-badge)
+![Teaching](https://img.shields.io/badge/Teaching_%26_Public_Speaking-046865?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving_%26_Analytical_Thinking-046865?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time_Management_%26_Adaptability-046865?style=for-the-badge)
 
 </div>
 
@@ -193,7 +238,7 @@ A smart shopping ecosystem combining a Django backend, React dashboard, mobile a
 ### 💬 Let's Connect & Build Something Great
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehab2052002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShehabMansour)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8A8,100:0f172a&height=120&section=footer" width="100%"/>
