@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shehab-Mansour&label=Profile%20Views&color=00A8A8&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-El--Monufia%2C%20Egypt-00A8A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-00A8A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF%20%7C%20AI-046865?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/><br/>
@@ -26,7 +26,7 @@
 ```yaml
 name: "Shehab Abd-Alrahman Mohamed"
 title: "Computer Engineer / Backend Developer"
-location: "El-Monufia, Egypt 🇪🇬"
+location: "Cairo, Egypt 🇪🇬"
 education: "B.Sc. Computer & Control Engineering — El-Shorouk Academy (2025)"
 focus: "Building scalable backend systems with Django & Django REST Framework"
 also_into: ["AI Integration", "Embedded Systems", "IoT", "Computer Vision"]
